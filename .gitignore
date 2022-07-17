@@ -1,2 +1,10 @@
 !1 Plus minus/*.json
 hackerrank-practice/1 Plus minus/node_modules
+
+*.json
+
+2-mini-max-sum/node_modules/ansi-regex/
+
+2-mini-max-sum/node_modules/prompt-sync/
+
+2-mini-max-sum/node_modules/strip-ansi/
